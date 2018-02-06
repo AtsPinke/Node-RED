@@ -1,0 +1,12 @@
+{
+    "name": "Test1NXT",
+    "description": "standard test",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_ATSDENWNB007.json",
+            "credentialsFile": "flows_ATSDENWNB007_cred.json"
+        }
+    }
+}
