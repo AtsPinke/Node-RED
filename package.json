@@ -2,7 +2,9 @@
     "name": "Test1NXT",
     "description": "standard test",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-opcua": "0.2.22"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_ATSDENWNB007.json",
